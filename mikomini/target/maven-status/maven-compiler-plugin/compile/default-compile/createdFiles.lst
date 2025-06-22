@@ -1,0 +1,8 @@
+com\mikomini\appinstall\MainVerticle.class
+com\mikomini\appinstall\verticles\AppInstallationVerticle.class
+com\mikomini\appinstall\models\App$State.class
+com\mikomini\appinstall\verticles\AnalyticsVerticle.class
+com\mikomini\appinstall\models\InstallationLog.class
+com\mikomini\appinstall\verticles\DatabaseVerticle.class
+com\mikomini\appinstall\models\App.class
+com\mikomini\appinstall\verticles\NotificationVerticle.class
