@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: mikomini
+    name: vertx-app
     runtime: docker
     plan: free
     autoDeploy: true
