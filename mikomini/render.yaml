@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: mikimini
+    name: mikomini
     runtime: docker
     plan: free
     autoDeploy: true
